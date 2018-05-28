@@ -1,0 +1,15 @@
+/www
+/mockup
+/local_modules
+/dist
+/src/vendor
+/test/unit/coverage/
+
+mockup.config.js
+**/flipclock.min.js
+**/lottery.js
+**/bettingMiss.js
+**/validator.js
+**/gulpfile.js
+
+**/webpack*.js
